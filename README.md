@@ -44,10 +44,10 @@
 ### Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" height="35"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" height="35"/>
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus" height="35"/>
+  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp" height="35"/>
 </p>
 
 ---
@@ -55,10 +55,10 @@
 ### Frontend Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" height="35"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" height="35"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css" height="35"/>
 </p>
 
 ---
@@ -66,8 +66,8 @@
 ### Backend Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" height="35"/>
+  <img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=fastapi" height="35"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ### Database
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" height="35"/>
 </p>
 
 ---
@@ -83,11 +83,11 @@
 ### Tools & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" height="35"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" height="35"/>
+  <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode" height="35"/>
+  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman" height="35"/>
+  <img src="https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify" height="35"/>
 </p>
 
 <p align="center">
