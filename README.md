@@ -9,21 +9,26 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Software+Engineer;React+%2B+Tailwind+Developer" />
+</p>
+
 ## 📌 About Me
+
 - 🌱 Currently learning Full Stack Development
 - 💻 Building modern web applications with React
 - 🚀 Interested in Frontend
 
-
 ## 🧠 My Focus Areas
+
 - Web Development
 - Frontend Development
 - React Applications
 - Software Engineer
 - Open Source
 
-
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/TahaAl-Qalyubiy">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TahaAl-Qalyubiy&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="TahaAl-Qalyubiy's GitHub Stats" />
@@ -34,46 +39,55 @@
   <img src="https://trophy.ryglcloud.net/?username=TahaAl-Qalyubiy&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Taha Al-Qalyubiy's GitHub Trophies" />
 </p>
 
-
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+### Programming Languages
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp" />
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+---
 
+### Frontend Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css" />
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+---
 
+### Backend Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=fastapi" />
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+---
 
+### Database
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
 </p>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+---
 
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel" />
 </p>
 
 <p align="center">
@@ -86,6 +100,7 @@
 <br/>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/taha-al-qalyubiy-98a417357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -102,6 +117,7 @@
 </p>
 
 ## 💬 Quote
+
 > Aspiring Software Engineer building the future with code.
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
@@ -109,5 +125,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-
-
