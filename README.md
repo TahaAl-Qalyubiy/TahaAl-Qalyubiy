@@ -39,6 +39,21 @@
 * Software Engineering
 * Open Source
 
+## 🧠 Software Engineering Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-000?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Clean_Code-000?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-000?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-000?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/RESTful_APIs-000?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Authentication_%26_Authorization-000?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Error_Handling-000?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Code_Organization-000?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-000?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Component_Based_Architecture-000?style=for-the-badge" height="35"/>
+</p>
+
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
@@ -170,5 +185,5 @@
 > Aspiring Software Engineer building modern web experiences with code.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47bb4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
